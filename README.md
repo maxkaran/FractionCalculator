@@ -6,3 +6,5 @@ The code used to create the Fraction class was then converted to a Dynamic Linke
 The FractionDLL folder holds code that converts the fraction class to a dll.
 
 Fraction Class holds the actual C++ code for the fraction class.
+
+To run the calculator, download the project, then run the .exe file in the solution folder.
